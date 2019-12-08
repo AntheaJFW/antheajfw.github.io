@@ -8,7 +8,7 @@ collection: projects
 ---
 
 {% include base_path %}
-![](/images/She-loves-data-1.jpg)
+![](/images/She-loves-data-1.JPG)
 <q>First Hackathon, second place! 🥳</q>
 
 The Hackathon
