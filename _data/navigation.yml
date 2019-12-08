@@ -4,7 +4,7 @@ main:
     url: /home/  
 
   - title: "Notebooks"
-    url: /Notebooks/  
+    url: /notebooks/
 
   - title: "Projects"
     url: /projects/  
