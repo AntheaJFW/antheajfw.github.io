@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://drive.google.com/file/d/1GJnuQxZSO5K_MBZ2pTZljfHYtuaXYJXI/preview" width="80%" height="1500" align="middle"></iframe>
+</div>
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -57,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
