@@ -4,7 +4,7 @@ title: "Notebooks"
 permalink: /notebooks/
 author_profile: true
 redirect_from: 
-  - /Notebook/
+  - /Notebooks/
 ---
 
 {% include base_path %}
