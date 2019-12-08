@@ -13,9 +13,9 @@ redirect_from:
 
 I'm Anthea. Welcome to my website (& Thank you for visiting)! 
 
-Python Resources
+Resources for learning python!
 ---
-[List of resources](/python-resources)
+I've collected a list of resources here: [Resources](/python-resources)
 
 Technologies I have interest in
 ---

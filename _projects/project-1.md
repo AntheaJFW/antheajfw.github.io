@@ -3,13 +3,12 @@ title: "She Loves Data Hackathon"
 excerpt: "My first time participating in a Hackathon! It was a fun and full of insight into what to look out for when analysing data. I learnt a lot from all of the presentations!
 
 
-<img src='/images/she-loves-data-Resized.JPG'>"
+![](../images/She-loves-data-Resized.JPG)"
 collection: projects
 ---
 
 {% include base_path %}
-
-<img src='/images/she-loves-data-1.JPG'>
+![](/images/She-loves-data-1.jpg)
 <q>First Hackathon, second place! 🥳</q>
 
 The Hackathon
