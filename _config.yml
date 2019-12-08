@@ -271,15 +271,15 @@ defaults:
       author_profile: false
       share: false
       comment: true
-  # _python
-  - scope:
-      path: "/notebooks"
-      type: python
-    values:
-      layout: single
-      author_profile: false
-      share: false
-      comment: true
+  # # _python
+  # - scope:
+  #     path: "/notebooks"
+  #     type: python
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: false
+  #     comment: true
 
 # Sass/SCSS
 sass:
