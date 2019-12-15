@@ -29,6 +29,8 @@ Technologies I currently use
 * Javascript
 * Interacting with web APIs in python, JSON / XML
 * Scala
+* Git
+* Bash
 
 Learning Resources
 ---
